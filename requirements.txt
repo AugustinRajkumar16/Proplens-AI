@@ -1,0 +1,23 @@
+# Core dependencies
+django>=4.2
+djangorestframework
+pyjwt
+uvicorn
+python-multipart
+pytest
+sqlalchemy
+psycopg2
+sentence-transformers
+pyarrow
+
+# Pip-only dependencies
+pymupdf
+django-ninja>=0.23.0
+chromadb
+chroma-migrate
+pytest-mock
+
+# Additional tools
+streamlit
+requests
+python-dotenv

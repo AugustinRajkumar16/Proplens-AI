@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+proplens_env/
+
+# Databases and chroma
+db.sqlite3
+chroma_data/
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,26 @@
+name: proplens_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - django>=4.2
+  - djangorestframework
+  - pyjwt
+  - uvicorn
+  - python-multipart
+  - pytest
+  - sqlalchemy
+  - psycopg2
+  - pip
+  - sentence-transformers
+  - pyarrow
+  - streamlit
+  - requests
+  - python-dotenv
+  - pip:
+      - pymupdf
+      - django-ninja>=0.23.0
+      - chromadb
+      - chroma-migrate
+      - pytest-mock
