@@ -307,7 +307,7 @@ You can now view your Streamlit app in your browser.
 
 > **Important:** If you run `main.py` (or start Streamlit separately), the Streamlit terminal prints the URL(s). You **do not** need to type anything else — open a web browser and navigate to `http://localhost:8501` or the `Local URL` shown in the Streamlit output.
 
-![Alt text](images/terminal.png)
+![Alt text](images/Terminal.png)
 
 Or run components manually:
 
@@ -357,7 +357,7 @@ python upload_all_docs.py
 ```
 - The `login` page in the web browser shows the username and password as `'demo'`.
 
-![Alt text](images/Login_page.png)
+![Alt text](images/Login_Page.png)
 
 - Sample page of CRM
 
